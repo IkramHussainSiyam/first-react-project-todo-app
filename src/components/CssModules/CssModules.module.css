@@ -1,0 +1,18 @@
+.test {
+  background-color: antiquewhite;
+  width: 400px;
+  height: 300px;
+  border-radius: 5px;
+  border: 1px solid #0000001d;
+  display: none;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+}
